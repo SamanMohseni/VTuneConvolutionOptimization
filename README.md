@@ -1,5 +1,5 @@
 # Improved Matrix Convolution Algorithm based on VTune Profiler feedback
-This project is part of **Advanced Microprocessor** course.
+This project is part of the **Advanced Microprocessor** course.
 
 This project presents an improved matrix convolution algorithm optimized using Intel VTune Profiler feedback. The algorithm focuses on optimizing data localization, reducing switching time between DSB and MITE, minimizing hazards, and enhancing branch prediction accuracy. Additionally, the algorithm leverages various instruction sets, including AVX, AVX2, and SSE2, to achieve vectorization and improve performance.
 
